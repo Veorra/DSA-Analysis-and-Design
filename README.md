@@ -19,4 +19,4 @@ My work on this project has really opened my eyes and expanded my approach in th
 
 5) How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
-
+This project has impacted the way I write programs that are maintainable, readable, and adaptable. It has helped me fully understand functions and their calls when displaying information as well as parsing data from different files. Thanks to learning the different techniques with data structures I can now make more maintainable programs that can open, read, and store data files for different programmable actions.

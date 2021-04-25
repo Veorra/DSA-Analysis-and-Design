@@ -15,7 +15,7 @@ As for any roadblocks or encounters I’ve had going through the activities, I w
 
 4) How has your work on this project expanded your approach to designing software and developing programs?
 
-
+My work on this project has really opened my eyes and expanded my approach in the way I design my software. I now see how incredibly powerful data structures are. Without a doubt this course has impacted the way I view data storage and which techniques to use when they seem to fit.
 
 5) How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
